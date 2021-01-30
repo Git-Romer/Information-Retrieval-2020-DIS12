@@ -5,6 +5,8 @@
 1. [Table of Contents](##Table-of-Contents)
 2. [Schedule and Resources](###Schedule-and-Resources)
 3. [Slides and online lecture archive](###Slides-and-online-lecture-archive)
+4. [Solutions to the exercises](###Solutions-to-the-exercises)  
+    4.1 [Exercise 1](####Exercise-1)  
 
 ### Schedule and Resources
 
@@ -34,3 +36,14 @@
 | 2021-01-15 at 15:15 | Exercise Query Expansion              | [exercise](exercises/DIS12-07-queryexp-exercise.pdf)    |
 | 2021-01-22 at 13:30 | Exercise Web Crawling + Link Analysis | [exercise](exercises/DIS12-08-webcrawling-linkanalysis-exercise.pdf)  |
 | 2021-01-22 at 15:15 | Test Exam                             | [test exam](exam/DIS12-10-testexam.pdf)    |
+
+### Solutions to the exercises
+
+#### Exercise 1
+
+| Topic                                 | Resources      |
+|---------------------------------------|----------------|
+| Mengen und Sets                       | [xlsx]()       |
+| Venn Diagramme                        | [pdf]()        |
+| Term-Dokument-Matrix                  | [ipynb]()      |
+| Suche in Shakespeares Gesamtwerk      | []()           |
