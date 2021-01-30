@@ -44,10 +44,10 @@
 
 | Topic                                 | Resources      |
 |---------------------------------------|----------------|
-| Mengen und Sets                       | [xlsx](solutions/Mengen_und_Sets.xlsx)       |
-| Venn Diagramme                        | [pdf](solutions/Term_Dokument_Matrix.ipynb)        |
-| Term-Dokument-Matrix                  | [ipynb](solutions/Venn-Diagramme.pdf)      |
-| Suche in Shakespeares Gesamtwerk      | []()           |
+| Mengen und Sets                       | [xlsx](solutions\Exercise_1\Mengen_und_Sets.xlsx)                 |
+| Venn Diagramme                        | [pdf](solutions\Exercise_1\Term_Dokument_Matrix.ipynb)            |
+| Term-Dokument-Matrix                  | [ipynb](solutions\Exercise_1\Venn-Diagramme.pdf)                  |
+| Suche in Shakespeares Gesamtwerk      | [ipynb](solutions\Exercise_1\Shakespeare_gesamtwerk_suche.ipynb)  |
 
 #### Exercise 2
 
