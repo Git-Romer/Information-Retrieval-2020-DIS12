@@ -7,6 +7,7 @@
 3. [Slides and online lecture archive](###Slides-and-online-lecture-archive)
 4. [Solutions to the exercises](###Solutions-to-the-exercises)  
     4.1 [Exercise 1](####Exercise-1)  
+    4.2 [Exercise 2](####Exercise-2)  
 
 ### Schedule and Resources
 
@@ -47,3 +48,13 @@
 | Venn Diagramme                        | [pdf]()        |
 | Term-Dokument-Matrix                  | [ipynb]()      |
 | Suche in Shakespeares Gesamtwerk      | []()           |
+
+#### Exercise 2
+
+| Topic                                        | Resources      |
+|----------------------------------------------|----------------|
+| Berechnung von idf                           | []()           |
+| Ein Gefühl für idf bekommen                  | []()           |
+| Berechnung von tf-idf                        | []()           |
+| Verständnisfragen zu idf und Zipfs Gesetz    | []()           |
+| tf-idf in Shakespeares Gesamtwerk            | []()           |
