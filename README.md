@@ -44,9 +44,9 @@
 
 | Topic                                 | Resources      |
 |---------------------------------------|----------------|
-| Mengen und Sets                       | [xlsx]()       |
-| Venn Diagramme                        | [pdf]()        |
-| Term-Dokument-Matrix                  | [ipynb]()      |
+| Mengen und Sets                       | [xlsx](solutions/Mengen_und_Sets.xlsx)       |
+| Venn Diagramme                        | [pdf](solutions/Term_Dokument_Matrix.ipynb)        |
+| Term-Dokument-Matrix                  | [ipynb](solutions/Venn-Diagramme.pdf)      |
 | Suche in Shakespeares Gesamtwerk      | []()           |
 
 #### Exercise 2
